@@ -33,6 +33,8 @@ sales_data = [
     {"date": "2023-01-05", "product": "Keyboard", "category": "Electronics", "price": 75, "quantity": 20},
 ]
 
+
+
 # 2. Функції для роботи з даними
 def add_sale(data, sale):
     """Додає новий запис про продаж."""
